@@ -1,9 +1,8 @@
 ---
-title: What is LLMNR
+title: "What is LLMNR ?"
 date: 2024-05-27 10:03:38
-categories: [Active Directory Basics]
-published: true
-tags: [Active-Directory, Active-Directory-Basic]
+categories: Active Directory Basics
+tags: Active-Directory, Active-Directory-Basic
 ---
 
 # What is LLMNR?
