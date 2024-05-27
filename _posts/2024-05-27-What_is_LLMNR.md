@@ -4,8 +4,10 @@ date: 2024-05-27 10:03:38
 categories: [Active Directory Basics]
 tags: [Active-Directory, Active-Directory-Basic]
 ---
+&nbsp;
 
-# What is LLMNR?
+&nbsp;
+## What is LLMNR?
 
 Link-Local Multicast Name Resolution (LLMNR) is a protocol that allows computers on a local network to resolve the names of other computers to their IP addresses. It is similar to the NetBIOS Name Service (NBNS) protocol, which is used to resolve NetBIOS names to IP addresses in Microsoft Windows operating systems.
 
@@ -18,7 +20,7 @@ LLMNR is designed to be used in networks where a Domain Name System (DNS) server
 LLMNR can work over IPv4 and IPv6.
 
 
-### Here's how LLMNR works:
+## Here's how LLMNR works:
 
 1.  A client computer wants to communicate with another computer on the network using its hostname.
     
