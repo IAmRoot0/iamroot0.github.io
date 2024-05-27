@@ -1,11 +1,10 @@
 ---
-title: What is LLMNR?
+title: What is LLMNR
 date: 2024-05-27 10:03:38
 categories: [Active Directory Basics]
 published: true
-tags: [Active Directory, Active Directory Basic]
+tags: [Active-Directory, Active-Directory-Basic]
 ---
-
 
 # What is LLMNR?
 
@@ -33,4 +32,4 @@ LLMNR can work over IPv4 and IPv6.
 
 If the LLMNR server does not have the IP address of the target computer in its database, it will send a multicast request to all computers on the network, asking if any of them know the IP address of the target computer. If a computer on the network knows the IP address, it will respond with the IP address. The requesting computer can then use this IP address to communicate with the target computer.
 
-LLMNR is designed to be used in networks where a Domain Name System (DNS) server is not available. It allows computers on a local network to communicate using hostnames, even if they are not connected to the Internet.
+LLMNR is designed to be used in networks where a Domain Name System (DNS) server is not available. It allows computers on a local network to communicate using hostnames, even if they are not connected to the Internet.\
