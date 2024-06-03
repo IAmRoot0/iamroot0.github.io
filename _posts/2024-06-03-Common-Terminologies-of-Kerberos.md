@@ -4,13 +4,12 @@ date: 2024-06-03 10:29:52
 categories: [Active Directory Basics]
 tags: [Active-Directory, Active-Directory-Basic, Kerberos]
 ---
-&nbsp;
 
-## Common Terminologies of Kerberos Authentication
+# Common Terminologies of Kerberos Authentication
 
 Kerberos authentication is a robust protocol used for network security, particularly in Active Directory (AD) environments. Here’s a list of common terminology associated with Kerberos authentication in AD:
 
-### Key Terms in Kerberos Authentication
+## Key Terms in Kerberos Authentication
 
 - **KDC (Key Distribution Center)**: The service that issues Kerberos tickets. It consists of two parts: the Authentication Server (AS) and the Ticket Granting Server (TGS).
     
@@ -37,7 +36,7 @@ Kerberos authentication is a robust protocol used for network security, particul
 - **KRB_AP_REP**: The response from the server to the client, confirming authentication.
     
 
-### Additional Terms Related to Kerberos in AD
+## Additional Terms Related to Kerberos in AD
 
 - **SPN (Service Principal Name)**: A unique identifier for a service instance used in Kerberos authentication.
     
