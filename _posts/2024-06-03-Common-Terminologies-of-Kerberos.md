@@ -6,7 +6,7 @@ tags: [Active-Directory, Active-Directory-Basic, Kerberos]
 ---
 &nbsp;
 
-## Common Terminologies of Kerberos Authentication 
+## Common Terminologies of Kerberos Authentication
 
 Kerberos authentication is a robust protocol used for network security, particularly in Active Directory (AD) environments. Here’s a list of common terminology associated with Kerberos authentication in AD:
 
