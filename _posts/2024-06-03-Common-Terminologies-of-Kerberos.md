@@ -2,7 +2,7 @@
 title: "Common Terminologies of Kerberos"
 date: 2024-06-03 10:29:52
 categories: [Active Directory Basics]
-tags: [Active-Directory, Active-Directory-Basic, Kerberos]
+tags: [Active-Directory, Active-Directory-Basic]
 ---
 
 # Common Terminologies of Kerberos Authentication
