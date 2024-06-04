@@ -3,11 +3,12 @@ title: "How NTLMv1 Work?"
 date: 04-06-2024 07:09:22
 categories: [Active Directory Basics]
 tags: [Active-Directory, Active-Directory-Basic]
+mermaid: true
 ---
 
 ## How NTLMv1 Work?
 
-{% mermaid %}
+```mermaid
 sequenceDiagram
     participant User
     participant Server
@@ -27,4 +28,4 @@ sequenceDiagram
     Note right of  DC : - Return the status on the basis of result
     DC-->>Server: Status - Access Ganted
     Server-->>User: Status - Access Ganted
-{% endmermaid %}
+```
