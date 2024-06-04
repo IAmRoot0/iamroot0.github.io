@@ -2,7 +2,7 @@
 title: "How NTLMv1 Work ?"
 date: 2024-06-04 07:09:22
 categories: [Active Directory Basics]
-tags: [Active-Directory, Active-Directory-Basic]
+tags: [Active-Directory, Active-Directory-Basic, NTLM, NTLM v1]
 mermaid: true
 ---
 &nbsp;
