@@ -21,8 +21,8 @@ sequenceDiagram
     Server-->>User: Send The Challenge To User
     Note left of User: As a Response, the user encrypts<br> the challenge with a hash of their password<br>(Encryption using DES algorithm)
     User->>Server: Send the Response To Server
-    Note over Server: Response From User + Username + <br> challenge 
     Server->>DC: Upon receiving the response,<br>the server will send it to the DC <br>for verification by adding the <br>username, response, and challenge
+    Note right of Server: Response From User + Username + <br> challenge
     Note right of  DC : - Retrive the User's Hash Password By Username
     Note right of  DC : - Encrypt the Challenge with user's password Hash
     Note right of  DC : - Match Against retrived challenge response
