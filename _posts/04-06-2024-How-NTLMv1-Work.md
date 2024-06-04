@@ -5,7 +5,7 @@ categories: [Active Directory Basics]
 tags: [Active-Directory, Active-Directory-Basic]
 ---
 
-## How NTLMv1 Work?
+## How NTLMv1 Work
 
 {% mermaid %}
 sequenceDiagram
