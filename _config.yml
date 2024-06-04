@@ -207,9 +207,6 @@ compress_html:
   ignore:
     envs: [development]
 
-mermaid:
-  src: 'assets/lib/mermaid/mermaid.min.js'
-
 exclude:
   - "*.gem"
   - "*.gemspec"
