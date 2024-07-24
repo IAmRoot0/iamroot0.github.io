@@ -21,9 +21,9 @@ Suppose if we want to scan a single application with multiple tools then, we hav
 ---
 ## About Burp-Suite
 ---
-The flexibility and high-level customization capabilities of the burp suite are very popular in the hacking community. It allows users to modify and craft requests, intercept and modify responses, and perform in-depth manual testing.
+Burp-Suite is very popular in the hacking community because of the flexibility and high-level customization capabilities of the burp-suite. It allows users to modify and craft requests, intercept and modify responses, and perform in-depth manual testing.
 
-The burp-suite proxy tool connects to the browser, so whatever we explore or trigger the functionality in the browser, it will be captured by the burp-suite tool. Burp-Suite can store the request and response with proper user inputs and application flow.
+The burp-suite proxy tool connects to the browser, so whatever we explore or trigger the functionality of target application in the browser, it will be captured by the burp-suite tool. Burp-Suite can store the request and response with proper user inputs and application flow.
 
 Since our goal is to explore the entire application once manually and capture the traffic in burp-suite and then transfer the captured traffic from burp suite to HCL App scan or other proxy tools, we will use Burp-Suite Upstream Functionality here.
 
