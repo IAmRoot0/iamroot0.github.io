@@ -63,6 +63,7 @@ Successfully started the traffic listener to record the traffic in HCL Appscan.
 #### Step 4:
 Once we get the details like IP address and Port number of HCL Appscan traffic listener, 
 use those details in Burp-Suite upstream.
+
 ![](assets/images/burp-suite1/expand-scope-5.png)
 
 #### Step 5:
