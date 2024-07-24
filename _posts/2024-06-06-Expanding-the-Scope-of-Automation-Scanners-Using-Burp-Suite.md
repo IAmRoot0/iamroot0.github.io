@@ -153,7 +153,6 @@ Stop the recording and then save the state and finally start the scan.
 
 
 ---
-References
-
+## References
 ---
 https://github.com/IAmRoot0/Multi-Request-Repeater/tree/main
