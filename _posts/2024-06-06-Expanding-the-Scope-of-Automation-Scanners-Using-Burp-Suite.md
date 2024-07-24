@@ -93,9 +93,11 @@ successfully able to upstream the 4 requests one by one using burp-suite repeate
 
 **However, the problem is that all requests must be re-executed or resent manually using the burp-suite repeater in order to upstream the request. Suppose if we want to upstream hundreds or thousands of requests, so we cannot repeat each request manually. In order to facilitate the upstreaming of requests, I develped the Burp Extender in Jython language. This extender allows for the repetition or re-execution of multiple requests with a single click.**
 
+#### Multi-Request-Repeater (Burp-Suite Extender)
+
 https://github.com/IAmRoot0/Multi-Request-Repeater
 
-```jython
+```python
 import threading
 from burp import IBurpExtender, IContextMenuFactory, IContextMenuInvocation
 from javax.swing import JMenuItem
