@@ -18,6 +18,8 @@ Actually, we can resolve these problems by exploring the entire application manu
 
 Suppose if we want to scan a single application with multiple tools then, we have to explore the entire application multiple times for each tool.
 
+**So our goal is to explore the entire application once manually and capture the traffic in burp-suite and then transfer the captured traffic from burp-suite to HCL AppScan or other automation tools for security scanning**
+
 ---
 ## About Burp-Suite
 ---
@@ -59,7 +61,8 @@ Successfully started the traffic listener to record the traffic in HCL Appscan.
 ![](assets/images/burp-suite1/expand-scope-4.png)
 
 #### Step 4:
-Once we get the details like IP address and Port number of HCL Appscan traffic listener, use those details in Burp-Suite upstream.
+Once we get the details like IP address and Port number of HCL Appscan traffic listener, 
+use those details in Burp-Suite upstream.
 ![](assets/images/burp-suite1/expand-scope-5.png)
 
 #### Step 5:
