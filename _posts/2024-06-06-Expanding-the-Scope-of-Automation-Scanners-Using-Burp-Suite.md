@@ -40,3 +40,10 @@ The scenario for the setup is as follows.
 
 - Burp-suite will be the sender, so we will setup the "Upstream Proxy Server" in Burp-suite and
 - HCL App Scan will be the receiver, so we will need to setup a Proxy Listener in HCL App to record the traffic.
+
+#### Step 1:
+Explore the entire application in burp suite. trigger the each and every function of application with proper user inputs and flow.
+In the following image, you can see that we have already explored the entire application https://demo.testfire.net
+
+![](/images/burp-suite1/expand-scope-1.png)
+
