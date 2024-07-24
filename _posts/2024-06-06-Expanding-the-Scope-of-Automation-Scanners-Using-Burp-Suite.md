@@ -45,5 +45,5 @@ The scenario for the setup is as follows.
 Explore the entire application in burp suite. trigger the each and every function of application with proper user inputs and flow.
 In the following image, you can see that we have already explored the entire application https://demo.testfire.net
 
-![](/images/burp-suite1/expand-scope-1.png)
+![](assets/images/burp-suite1/expand-scope-1.png)
 
