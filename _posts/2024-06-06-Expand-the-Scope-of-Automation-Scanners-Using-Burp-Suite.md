@@ -1,5 +1,5 @@
 ---
-title: "Expanding the Scope of Automation Scanners Using Burp-Suite"
+title: "Expand the Scope of Automation Scanners Using Burp-Suite"
 date: 2024-06-06 07:09:22
 categories: [Burp-Suite]
 tags: [Burp-Suite, Jython]
