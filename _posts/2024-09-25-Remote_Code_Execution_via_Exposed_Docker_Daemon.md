@@ -4,7 +4,6 @@ date: 2024-09-25 11:30:00
 categories: [Docker]
 tags: [Docker, THM, TryHackMe]
 ---
-&nbsp;
 
 ## The Docker Engine -TCP Sockets Edition
 
