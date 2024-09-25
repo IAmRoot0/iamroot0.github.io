@@ -1,7 +1,7 @@
 ---
 title: "Remote Code Execution via Exposed Docker Daemon"
 date: 2024-09-25 11:30:00
-categories: [Docker,Try-Hack-Me]
+categories: [Docker]
 tags: [Docker, THM, TryHackMe]
 ---
 &nbsp;
