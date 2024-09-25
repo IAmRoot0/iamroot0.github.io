@@ -5,7 +5,7 @@ categories: [Docker]
 tags: [Docker, THM, TryHackMe]
 ---
 
-## The Docker Engine -TCP Sockets Edition
+## The Docker Engine TCP Sockets Edition
 
 Recall how Docker uses sockets to communicate between the host operating system and containers in the previous task. Docker can also use TCP sockets to achieve this.
 
