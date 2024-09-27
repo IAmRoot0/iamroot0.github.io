@@ -1,5 +1,5 @@
 ---
-title: "Red Team Fundamentals"
+title: "Remote Code Execution via Exposed Docker Daemon"
 date: 2024-09-01 07:09:22
 categories: [Try-Hack-Me]
 tags: [Red Team, THM]
