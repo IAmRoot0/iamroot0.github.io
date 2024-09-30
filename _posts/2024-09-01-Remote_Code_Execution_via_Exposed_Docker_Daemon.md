@@ -68,7 +68,7 @@ Looks like it's open; we're going to use the `curl` command to start interacti
 
 ## Executing Docker Commands on Our Target
 
-For this, we'll need to tell our version of Docker to send the command to our target (not our own machine). We can add the "-H" switch to our target. To test if we can run commands, we'll list the containers on the target: `docker -H tcp://10.10.62.80:2`
+For this, we'll need to tell our version of Docker to send the command to our target (not our own machine). We can add the "-H" switch to our target. To test if we can run commands, we'll list the containers on the target: `docker -H tcp://10.10.62.80:2375 ps`
 
 ```
 [iamroot@parrot]$ docker -H tcp://10.10.62.80:2375 ps
