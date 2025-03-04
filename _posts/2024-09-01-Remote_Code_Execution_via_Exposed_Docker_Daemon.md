@@ -17,7 +17,7 @@ The Docker Engine will listen on a port when configured to be run remotely. The 
 
 Enumerating: Finding Out if a Device Has Docker Remotely Accessible
 
-By default, the engine will run on **port 2375.** We can confirm this by performing an Nmap scan against your target (10.10.62.80) from your AttackBox.
+By default, the engine will run on **port 2375.** We can confirm this by performing an Nmap scan against the target (10.10.62.80)
 
 ```
 [iamroot@parrot]$ nmap -sV -p 2375 10.10.62.80
