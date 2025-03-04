@@ -7,7 +7,7 @@ tags: [Docker, THM]
 
 ## The Docker Engine TCP Sockets Edition
 
-Recall how Docker uses sockets to communicate between the host operating system and containers in the previous task. Docker can also use TCP sockets to achieve this.
+"The Docker Engine TCP Sockets Edition" refers to a configuration where the Docker daemon, the core component of the Docker Engine, is set up to listen for connections on a TCP socket instead of the default Unix socket, allowing external clients to connect to the Docker Engine over the network using a standard TCP port, rather than relying on a local Unix socket file located on the host machine. 
 
 Docker can be remotely administrated. For example, using management tools such as [Portainer](https://www.portainer.io/) or [Jenkins](https://www.jenkins.io/) to deploy containers to test their code (yay, automation!).
 
